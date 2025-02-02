@@ -1,4 +1,3 @@
-// vivek kumar ringwani
 // singleton
 // Object.create
 
